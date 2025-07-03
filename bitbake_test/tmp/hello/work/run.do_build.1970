@@ -1,5 +1,0 @@
-def do_build(d):
-	bb.warn("Hello! bitbake world!")
-
-do_build(d)
-

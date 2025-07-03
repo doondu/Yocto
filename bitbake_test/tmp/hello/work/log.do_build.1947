@@ -1,9 +1,0 @@
-DEBUG: Executing python function do_build
-ERROR: Error in compiling python function in /home/great/yocto/bitbake_test/mylayer/hello.bb, line 5:
-
-The code lines resulting in this error were:
-     0001:def do_build(d):
- *** 0002:bb.warn("Hello! bitbake world!")
-     0003:
-IndentationError: expected an indented block (hello.bb, line 5)
-DEBUG: Python function do_build finished
